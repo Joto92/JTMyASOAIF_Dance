@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: A Song of Ice And Fire Dance of Dragons</Name>
+    <Guid>2ea7d16a-cc57-41ca-bfd6-4ef788be94ef</Guid>
+    <ProjectGuid>229a26f4-a857-4ecb-aa83-f06c6221b1a5</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Dance of Dragons Civs Mod of A Song of Ice And Fire</Teaser>
+    <Description>This mod adds the Dance of Dragons Leaders of the A Song of Ice And Fire of George RR Martin.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyASOIAF_Dance_Leaders.xml</File>
+          <File>MyASOIAF_Dance_Colors.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyASOIAF_Dance_ConfigText.xml</File>
+          <File>Translations/MyASOIAF_Dance_ConfigText_ES.xml</File>
+          <File>MyASOIAF_Dance_Text.xml</File>
+          <File>Translations/MyASOIAF_Dance_Text_ES.xml</File>
+          <File>MyASOIAF_Dance_Civilopedia.xml</File>
+          <File>Translations/MyASOIAF_Dance_Civilopedia_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyASOIAF_Dance_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>
+    ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyASOIAF_Dance_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyASOIAF_Dance_ConfigText.xml</File>
+          <File>Translations/MyASOIAF_Dance_ConfigText_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyASOIAF_Dance_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>
+    ]]></FrontEndActionData>
+    <AssemblyName>MyASOIAF_Dance</AssemblyName>
+    <RootNamespace>MyASOIAF_Dance</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+        <Dependency type="Mod" title="JT: A Song of Ice And Fire " id="6e66a293-6a21-4650-bb3e-58d55c5fbcc1" />
+    </Associations>]]></AssociationData>
+    <Authors>J. Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="MyASOIAF_Dance_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Dance_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Dance_Civilopedia_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Dance_ConfigText_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Dance_Text_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyASOIAF_Dance_Config.xml" />
+    <Content Include="MyASOIAF_Dance_ConfigText.xml" />
+    <Content Include="MyASOIAF_Dance_Icons.xml" />
+    <Content Include="MyASOIAF_Dance_Leaders.xml" />
+    <Content Include="MyASOIAF_Dance_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

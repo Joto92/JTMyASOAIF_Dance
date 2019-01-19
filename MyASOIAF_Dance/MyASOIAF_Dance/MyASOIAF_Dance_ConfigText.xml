@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE CREGAN STARK	-->
+		<Row Tag="LOC_LEADER_CREGAN_STARK_NAME" Language="en_US">
+			<Text>Cregan Stark</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HOUR_OFTHE_WOLF_NAME" Language="en_US">
+			<Text>Hour of the Wolf</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HOUR_OFTHE_WOLF_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. Unit maintenance reduced by 1 [ICON_Gold] Gold per turn, per unit.</Text>
+		</Row>
+		<!-- END OF THE CREGAN STARK	-->
+		<!-- THE ELMO_TULLY	-->
+		<Row Tag="LOC_LEADER_ELMO_TULLY_NAME" Language="en_US">
+			<Text>Elmo Tully</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LORD_OF_RIVERRUN_NAME" Language="en_US">
+			<Text>Lord of Riverrun</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LORD_OF_RIVERRUN_DESCRIPTION" Language="en_US">
+			<Text>Builds Encampment, Holy Site and Theater Square districts in half the time. +2 [ICON_Production] Production in all cities.</Text>
+		</Row>
+		<!-- END OF THE ELMO_TULLY	-->
+		<!-- THE JEYNE_ARRYN	-->
+		<Row Tag="LOC_LEADER_JEYNE_ARRYN_NAME" Language="en_US">
+			<Text>Jeyne Arryn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MAIDEN_OF_THE_VALE_NAME" Language="en_US">
+			<Text>The Maiden of the Vale</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MAIDEN_OF_THE_VALE_DESCRIPTION" Language="en_US">
+			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. +100% [ICON_Culture] Culture yield from Theater Square district buildings.</Text>
+		</Row>
+		<!-- END OF THE JEYNE_ARRYN	-->
+		<!-- THE BORROS_BARATHEON	-->
+		<Row Tag="LOC_LEADER_BORROS_BARATHEON_NAME" Language="en_US">
+			<Text>Borros Baratheon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_NAME" Language="en_US">
+			<Text>Lord Paramount of the Stormlands</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_DESCRIPTION" Language="en_US">
+			<Text>Additional Military policy slot. Builds Encampment districts in half the time.</Text>
+		</Row>
+		<!-- END OF THE BORROS_BARATHEON	-->
+		<!-- THE JASON_LANNISTER	-->
+		<Row Tag="LOC_LEADER_JASON_LANNISTER_NAME" Language="en_US">
+			<Text>Jason Lannister</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WARDEN_OFTHE_WEST_NAME" Language="en_US">
+			<Text>Warden of the West</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WARDEN_OFTHE_WEST_DESCRIPTION" Language="en_US">
+			<Text>Unit maintenance reduced by 1 [ICON_Gold] Gold per turn, per unit. 50% discount on all unit upgrades. +6 City [ICON_Strength] Defense Strength. +5 City [ICON_Ranged] Ranged Strength.</Text>
+		</Row>
+		<!-- END OF THE JASON_LANNISTER	-->
+		<!-- THE DALTON_GREYJOY	-->
+		<Row Tag="LOC_LEADER_DALTON_GREYJOY_NAME" Language="en_US">
+			<Text>Dalton Greyjoy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RED_KRAKEN_NAME" Language="en_US">
+			<Text>Red Kraken</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RED_KRAKEN_DESCRIPTION" Language="en_US">
+			<Text>Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities. Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast.</Text>
+		</Row>
+		<!-- END OF THE JASON_LANNISTER	-->
+		<!-- THE ALIANDRA_MARTELL	-->
+		<Row Tag="LOC_LEADER_ALIANDRA_MARTELL_NAME" Language="en_US">
+			<Text>Aliandra Martell</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NEW_NYMERIA_NAME" Language="en_US">
+			<Text>New Nymeria</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NEW_NYMERIA_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. +3 [ICON_Gold] Gold from each of your [ICON_Envoy] Envoys at city-states.</Text>
+		</Row>
+		<!-- END OF THE ALIANDRA_MARTELL	-->
+		<!-- THE RHAENYRA_TARGARYEN	-->
+		<Row Tag="LOC_LEADER_RHAENYRA_TARGARYEN_NAME" Language="en_US">
+			<Text>Rhaenyra Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SYRAX_NAME" Language="en_US">
+			<Text>Syrax</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SYRAX_DESCRIPTION" Language="en_US">
+			<Text>One extra Wildcard policy slot in any government. Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles.</Text>
+		</Row>
+		<!-- END OF THE RHAENYRA_TARGARYEN	-->
+		<!-- THE AEGONII_TARGARYEN	-->
+		<Row Tag="LOC_LEADER_AEGONII_TARGARYEN_NAME" Language="en_US">
+			<Text>Aegon II Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SUNFYRE_NAME" Language="en_US">
+			<Text>Sunfyre</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SUNFYRE_DESCRIPTION" Language="en_US">
+			<Text>One extra Wildcard policy slot in any government. +4 Influence points per turn toward earning [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<!-- END OF THE AEGONII_TARGARYEN	-->
+		<!-- THE LYONEL_TYRELL	-->
+		<Row Tag="LOC_LEADER_LYONEL_TYRELL_NAME" Language="en_US">
+			<Text>Lyonel Tyrell</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_NAME" Language="en_US">
+			<Text>High Marshal of the Reach</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. </Text>
+		</Row>
+		<!-- END OF THE LYONEL_TYRELL	-->
+	</LocalizedText>
+</GameData>

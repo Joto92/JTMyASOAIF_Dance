@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE CREGAN STARK	-->
+		<Replace Tag="LOC_TRAIT_HOUR_OFTHE_WOLF_NAME" Language="es_ES">
+			<Text>La Hora del Lobo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HOUR_OFTHE_WOLF_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada. El mantenimiento de las unidades se reduce a 1 de Oro [ICON_Gold] por turno y unidad.</Text>
+		</Replace>
+		<!-- END OF THE CREGAN STARK	-->
+		<!-- THE ELMO_TULLY	-->
+		<Replace Tag="LOC_TRAIT_LORD_OF_RIVERRUN_NAME" Language="es_ES">
+			<Text>Señor de Aguasdulces</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_OF_RIVERRUN_DESCRIPTION" Language="es_ES">
+			<Text>Los distritos de Campamento, Lugar sagrado y Teatro se construyen en la mitad del tiempo normal. +2 a la Producción [ICON_PRODUCTION] en todas las ciudades.</Text>
+		</Replace>
+		<!-- END OF THE ELMO_TULLY	-->
+		<!-- THE JEYNE_ARRYN	-->
+		<Replace Tag="LOC_TRAIT_MAIDEN_OF_THE_VALE_NAME" Language="es_ES">
+			<Text>La Doncella del Valle</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_MAIDEN_OF_THE_VALE_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_STRENGTH] de las unidades terrestres en casillas terrestres adyacentes a la Costa. +5 a la Fuerza de combate [ICON_Strength] de las unidades navales en casillas de aguas poco profundas. +100% al rendimiento de la Cultura [ICON_Culture] de los edificios del distrito de Teatros.</Text>
+		</Replace>
+		<!-- END OF THE JEYNE_ARRYN	-->
+		<!-- THE BORROS_BARATHEON	-->
+		<Replace Tag="LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_NAME" Language="es_ES">
+			<Text>Señor Supremo de las Tierras de la Tormenta</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_DESCRIPTION" Language="es_ES">
+			<Text>Espacio adicional para política militar.Los distritos de Campamento se construyen en la mitad del tiempo normal.</Text>
+		</Replace>
+		<!-- END OF THE BORROS_BARATHEON	-->
+		<!-- THE JASON_LANNISTER	-->
+		<Replace Tag="LOC_TRAIT_WARDEN_OFTHE_WEST_NAME" Language="es_ES">
+			<Text>Guardian del Oeste</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WARDEN_OFTHE_WEST_DESCRIPTION" Language="es_ES">
+			<Text>El mantenimiento de las unidades se reduce a 1 de Oro [ICON_Gold] por turno y unidad. 50% de descuento en todas las mejoras de unidades. +6 a la Fuerza de defensa [ICON_Strength] de la ciudad. +5 a la Fuerza de ataque a distancia [ICON_Ranged] de la ciudad.</Text>
+		</Replace>
+		<!-- END OF THE JASON_LANNISTER	-->
+		<!-- THE DALTON_GREYJOY	-->
+		<Replace Tag="LOC_TRAIT_RED_KRAKEN_NAME" Language="es_ES">
+			<Text>El Kraken Rojo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_RED_KRAKEN_DESCRIPTION" Language="es_ES">
+			<Text>Los recursos de lujo de su territorio otorgan Servicios [ICON_Amenities] a 2 ciudades extra. +5 a la Fuerza de combate [ICON_STRENGTH] de las unidades terrestres en casillas terrestres adyacentes a la Costa.</Text>
+		</Replace>
+		<!-- END OF THE JASON_LANNISTER	-->
+		<!-- THE ALIANDRA_MARTELL	-->
+		<Replace Tag="LOC_TRAIT_NEW_NYMERIA_NAME" Language="es_ES">
+			<Text>Nueva Nymeria</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NEW_NYMERIA_DESCRIPTION" Language="es_ES">
+			<Text>Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada. +3 de Oro [ICON_Gold] por cada uno de tus Enviados [ICON_Envoy] en ciudades-estado.</Text>
+		</Replace>
+		<!-- END OF THE ALIANDRA_MARTELL	-->
+		<!-- THE RHAENYRA_TARGARYEN	-->
+		<Replace Tag="LOC_TRAIT_SYRAX_NAME" Language="es_ES">
+			<Text>Syrax</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SYRAX_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno. +5 a la Fuerza de combate [ICON_STRENGTH] de las unidades terrestres en casillas terrestres adyacentes a la Costa. +5 a la Fuerza de combate [ICON_Strength] de las unidades navales en casillas de aguas poco profundas.</Text>
+		</Replace>
+		<!-- END OF THE RHAENYRA_TARGARYEN	-->
+		<!-- THE AEGONII_TARGARYEN	-->
+		<Replace Tag="LOC_TRAIT_SUNFYRE_NAME" Language="es_ES">
+			<Text>Fuegosol</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SUNFYRE_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno. +4 puntos de Influencia por turno para lograr enviados [ICON_Envoy].</Text>
+		</Replace>
+		<!-- END OF THE AEGONII_TARGARYEN	-->
+		<!-- THE LYONEL_TYRELL	-->
+		<Replace Tag="LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_NAME" Language="es_ES">
+			<Text>Alto Mariscal del Dominio</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su continente de origen.</Text>
+		</Replace>
+		<!-- END OF THE LYONEL_TYRELL	-->
+	</LocalizedText>
+</GameData>

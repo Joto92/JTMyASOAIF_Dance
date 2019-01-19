@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE CREGAN STARK	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CREGAN_STARK" Language="en_US">
+			<Text>Cregan Stark was a Lord of Winterfell, Warden of the North, and head of House Stark. He briefly served as Hand of the King for Aegon III Targaryen after the Dance of the Dragons.</Text>
+		</Row>
+		<!-- END OF THE CREGAN STARK	-->
+		<!-- THE ELMO_TULLY	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELMO_TULLY" Language="en_US">
+			<Text>Ser Elmo Tully was a knight of House Tully, whom became Lord of Riverrun and head of House Tully after the death of his grandfather Lord Grover Tully.</Text>
+		</Row>
+		<!-- END OF THE ELMO_TULLY	-->
+		<!-- THE JEYNE_ARRYN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JEYNE_ARRYN" Language="en_US">
+			<Text>Jeyne Arryn, also called the Maiden of the Vale, was Lady of the Eyrie and head of House Arryn. She ruled the Vale of Arryn during the Targaryen civil war known as the Dance of the Dragons.</Text>
+		</Row>
+		<!-- END OF THE JEYNE_ARRYN	-->
+		<!-- THE BORROS_BARATHEON	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_BORROS_BARATHEON" Language="en_US">
+			<Text>Borros Baratheon was Lord of Storm's End and head of House Baratheon during the Dance of the Dragons.</Text>
+		</Row>
+		<!-- END OF THE BORROS_BARATHEON	-->
+		<!-- THE JASON_LANNISTER	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JASON_LANNISTER" Language="en_US">
+			<Text>Jason Lannister was Lord of Casterly Rock and head of House Lannister during the reigns of Viserys I and Aegon II Targaryen.</Text>
+		</Row>
+		<!-- END OF THE JASON_LANNISTER	-->
+		<!-- THE DALTON_GREYJOY	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DALTON_GREYJOY" Language="en_US">
+			<Text>Dalton Greyjoy, known as the Red Kraken, was Lord of the Iron Islands, Lord Reaper of Pyke, and head of House Greyjoy during the final days of Viserys I Targaryen and then the Dance of the Dragons. He is regarded as a great hero of the ironborn of the Iron Islands.</Text>
+		</Row>
+		<!-- END OF THE DALTON_GREYJOY	-->
+		<!-- THE ALIANDRA_MARTELL	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ALIANDRA_MARTELL" Language="en_US">
+			<Text>Aliandra Martell was a ruling Princess of Dorne and head of House Nymeros Martell. She was a fiery young woman who encouraged her lords and knights to prove themselves to her by raiding in the Dornish Marches.</Text>
+		</Row>
+		<!-- END OF THE ALIANDRA_MARTELL	-->
+		<!-- THE RHAENYRA_TARGARYEN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_RHAENYRA_TARGARYEN" Language="en_US">
+			<Text>Princess Rhaenyra Targaryen, cheered as the Realm's Delight when she was young and later called the Half-Year Queen, was the first-born child of King Viserys I Targaryen.</Text>
+		</Row>
+		<!-- END OF THE RHAENYRA_TARGARYEN	-->
+		<!-- THE AEGONII_TARGARYEN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AEGONII_TARGARYEN" Language="en_US">
+			<Text>Aegon II Targaryen was the sixth Targaryen king to sit the Iron Throne, succeeding his father, Viserys I Targaryen, as Lord of the Seven Kingdoms. His ascent was disputed by his older half-sister, Princess Rhaenyra Targaryen, who had been their father's designated heir. Aegon and Rhaenyra fought for the throne in the civil war the singers called the Dance of the Dragons, in which both siblings perished.</Text>
+		</Row>
+		<!-- END OF THE AEGONII_TARGARYEN	-->
+		<!-- THE LYONEL_TYRELL	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LYONEL_TYRELL" Language="en_US">
+			<Text>Lyonel Tyrell was the Lord of Highgarden and head of House Tyrell during the Dance of the Dragons and the conquest of Dorne.</Text>
+		</Row>
+		<!-- END OF THE LYONEL_TYRELL	-->
+	</LocalizedText>
+</GameData>

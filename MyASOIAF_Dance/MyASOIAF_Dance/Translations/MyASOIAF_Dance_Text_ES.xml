@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE CREGAN STARK	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CREGAN_STARK" Language="es_ES">
+			<Text>Lord Cregan Stark, también conocido como el Viejo del Norte, fue cabeza de la Casa Stark y, como tal, Señor de Invernalia y Guardián del Norte.</Text>
+		</Replace>
+		<!-- END OF THE CREGAN STARK	-->
+		<!-- THE ELMO_TULLY	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ELMO_TULLY" Language="es_ES">
+			<Text>Lord Elmo Tully fue cabeza de la Casa Tully y, como tal, Señor de Aguasdulces y Señor Supremo del Tridente durante la Danza de los Dragones. Fue nieto de Lord Grover Tully y tuvo un hijo, Kermit.</Text>
+		</Replace>
+		<!-- END OF THE ELMO_TULLY	-->
+		<!-- THE JEYNE_ARRYN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JEYNE_ARRYN" Language="es_ES">
+			<Text>Lady Jeyne Arryn, apodada la Doncella del Valle, fue cabeza de la Casa Arryn y, como tal, Señora de Nido de Águilas, Defensora del Valle y Guardiana del Oriente.</Text>
+		</Replace>
+		<!-- END OF THE JEYNE_ARRYN	-->
+		<!-- THE BORROS_BARATHEON	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_BORROS_BARATHEON" Language="es_ES">
+			<Text>Lord Borros Baratheon fue cabeza de la Casa Baratheon y Señor de Bastión de Tormentas durante la Danza de los Dragones.</Text>
+		</Replace>
+		<!-- END OF THE BORROS_BARATHEON	-->
+		<!-- THE JASON_LANNISTER	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JASON_LANNISTER" Language="es_ES">
+			<Text>Lord Jason Lannister fue cabeza de la Casa Lannister y, como tal, Señor de Roca Casterly, Escudo de Lannisport y Guardián del Occidente durante el reinado de Viserys I Targaryen y Aegon II Targaryen.</Text>
+		</Replace>
+		<!-- END OF THE JASON_LANNISTER	-->
+		<!-- THE DALTON_GREYJOY	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DALTON_GREYJOY" Language="es_ES">
+			<Text>Lord Dalton Greyjoy, apodado el Kraken Rojo, fue cabeza de la Casa Greyjoy y, como tal, Lord Segador de Pyke y Señor Supremo de las Islas del Hierro durante el final del reinado de Viserys I Targaryen, la Danza de los Dragones y el comienzo del de Aegon III Targaryen.</Text>
+		</Replace>
+		<!-- END OF THE DALTON_GREYJOY	-->
+		<!-- THE ALIANDRA_MARTELL	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ALIANDRA_MARTELL" Language="es_ES">
+			<Text>La princesa Aliandra Nymeros Martell fue cabeza de la Casa Martell, y como tal, Señora de Lanza del Sol y Princesa de Dorne. Era una mujer joven y ardiente, que animaba a señores y caballeros a demostrarles su valía, realizando incursiones en las Marcas.</Text>
+		</Replace>
+		<!-- END OF THE ALIANDRA_MARTELL	-->
+		<!-- THE RHAENYRA_TARGARYEN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_RHAENYRA_TARGARYEN" Language="es_ES">
+			<Text>La reina Rhaenyra Targaryen fue la hija mayor del rey Viserys I Targaryen y su primera esposa, la reina Aemma Arryn. Tras la muerte de su padre, reclamó el Trono de Hierro y fue desafiada por su medio hermano menor Aegon, detonando la guerra civil conocida como Danza de los Dragones.</Text>
+		</Replace>
+		<!-- END OF THE RHAENYRA_TARGARYEN	-->
+		<!-- THE AEGONII_TARGARYEN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AEGONII_TARGARYEN" Language="es_ES">
+			<Text>El rey Aegon II Targaryen fue Rey de los Siete Reinos entre 129 y 131 AC. Sucedió a su padre, el rey Viserys I, luego de derrotar a su hermana mayor Rhaenyra en la Danza de los Dragones.</Text>
+		</Replace>
+		<!-- END OF THE AEGONII_TARGARYEN	-->
+		<!-- THE LYONEL_TYRELL	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LYONEL_TYRELL" Language="es_ES">
+			<Text>Lord Lyonel Tyrell fue cabeza de la Casa Tyrell y, como tal, Señor de Altojardín, Defensor de las Marcas, Alto Mariscal del Dominio, Señor Supremo del Mander y Guardián del Sur durante el reinado de Daeron I Targaryen.</Text>
+		</Replace>
+		<!-- END OF THE LYONEL_TYRELL	-->
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_THE_NORTH</CivilizationType>
+			<LeaderType>LEADER_CREGAN_STARK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THE_NORTH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THE_NORTH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CREGAN_STARK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CREGAN_STARK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WINTER_IS_COMING_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WINTER_IS_COMING_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THE_NORTH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUR_OFTHE_WOLF_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUR_OFTHE_WOLF_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CREGAN_STARK</LeaderAbilityIcon>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_RIVERLANDS</CivilizationType>
+			<LeaderType>LEADER_ELMO_TULLY</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_RIVERLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELMO_TULLY_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELMO_TULLY</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FAMILY_DUTY_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FAMILY_DUTY_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_OF_RIVERRUN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_OF_RIVERRUN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELMO_TULLY</LeaderAbilityIcon>
+			<Portrait>LEADER_ELMO_TULLY_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<LeaderType>LEADER_JEYNE_ARRYN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VALE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VALE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JEYNE_ARRYN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JEYNE_ARRYN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AS_HIGH_AS_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AS_HIGH_AS_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VALE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_MAIDEN_OF_THE_VALE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_MAIDEN_OF_THE_VALE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JEYNE_ARRYN</LeaderAbilityIcon>
+			<Portrait>LEADER_JEYNE_ARRYN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_BARATHEON_STORMSEND</CivilizationType>
+			<LeaderType>LEADER_BORROS_BARATHEON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BARATHEON_STORMSEND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BARATHEON_STORMSEND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BORROS_BARATHEON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BORROS_BARATHEON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_OURS_IS_THE_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_OURS_IS_THE_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BARATHEON_STORMSEND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BORROS_BARATHEON</LeaderAbilityIcon>
+			<Portrait>LEADER_BORROS_BARATHEON_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_WESTERLANDS</CivilizationType>
+			<LeaderType>LEADER_JASON_LANNISTER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_WESTERLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_WESTERLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JASON_LANNISTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JASON_LANNISTER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_HEAR_ME_ROAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_HEAR_ME_ROAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_WESTERLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARDEN_OFTHE_WEST_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARDEN_OFTHE_WEST_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JASON_LANNISTER</LeaderAbilityIcon>
+			<Portrait>LEADER_JASON_LANNISTER_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<LeaderType>LEADER_DALTON_GREYJOY</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_IRON_ISLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_IRON_ISLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DALTON_GREYJOY_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DALTON_GREYJOY</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WE_DO_NOT_SOW_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WE_DO_NOT_SOW_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_IRON_ISLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RED_KRAKEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RED_KRAKEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DALTON_GREYJOY</LeaderAbilityIcon>
+			<Portrait>LEADER_DALTON_GREYJOY_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<LeaderType>LEADER_ALIANDRA_MARTELL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DORNE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DORNE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALIANDRA_MARTELL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALIANDRA_MARTELL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_UNBOWED_UNBENT_UNBROKEN_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_UNBOWED_UNBENT_UNBROKEN_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DORNE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_NEW_NYMERIA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_NEW_NYMERIA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALIANDRA_MARTELL</LeaderAbilityIcon>
+			<Portrait>LEADER_ALIANDRA_MARTELL_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_RHAENYRA_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHAENYRA_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHAENYRA_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SYRAX_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SYRAX_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHAENYRA_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_RHAENYRA_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_AEGONII_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AEGONII_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AEGONII_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SUNFYRE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SUNFYRE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AEGONII_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_AEGONII_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_REACH</CivilizationType>
+			<LeaderType>LEADER_LYONEL_TYRELL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_REACH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_REACH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LYONEL_TYRELL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LYONEL_TYRELL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GROWING_STRONG_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GROWING_STRONG_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_REACH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LYONEL_TYRELL</LeaderAbilityIcon>
+			<Portrait>LEADER_LYONEL_TYRELL_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_THE_NORTH</CivilizationType>
+			<LeaderType>LEADER_CREGAN_STARK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THE_NORTH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THE_NORTH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CREGAN_STARK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CREGAN_STARK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WINTER_IS_COMING_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WINTER_IS_COMING_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THE_NORTH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUR_OFTHE_WOLF_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUR_OFTHE_WOLF_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CREGAN_STARK</LeaderAbilityIcon>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_RIVERLANDS</CivilizationType>
+			<LeaderType>LEADER_ELMO_TULLY</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_RIVERLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELMO_TULLY_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELMO_TULLY</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FAMILY_DUTY_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FAMILY_DUTY_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_OF_RIVERRUN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_OF_RIVERRUN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELMO_TULLY</LeaderAbilityIcon>
+			<Portrait>LEADER_ELMO_TULLY_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<LeaderType>LEADER_JEYNE_ARRYN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VALE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VALE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JEYNE_ARRYN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JEYNE_ARRYN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AS_HIGH_AS_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AS_HIGH_AS_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VALE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_MAIDEN_OF_THE_VALE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_MAIDEN_OF_THE_VALE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JEYNE_ARRYN</LeaderAbilityIcon>
+			<Portrait>LEADER_JEYNE_ARRYN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_BARATHEON_STORMSEND</CivilizationType>
+			<LeaderType>LEADER_BORROS_BARATHEON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BARATHEON_STORMSEND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BARATHEON_STORMSEND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BORROS_BARATHEON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BORROS_BARATHEON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_OURS_IS_THE_FURY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_OURS_IS_THE_FURY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BARATHEON_STORMSEND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_PARAMOUNT_OFTHE_STORMLANDS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BORROS_BARATHEON</LeaderAbilityIcon>
+			<Portrait>LEADER_BORROS_BARATHEON_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_WESTERLANDS</CivilizationType>
+			<LeaderType>LEADER_JASON_LANNISTER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_WESTERLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_WESTERLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JASON_LANNISTER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JASON_LANNISTER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_HEAR_ME_ROAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_HEAR_ME_ROAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_WESTERLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARDEN_OFTHE_WEST_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARDEN_OFTHE_WEST_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JASON_LANNISTER</LeaderAbilityIcon>
+			<Portrait>LEADER_JASON_LANNISTER_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<LeaderType>LEADER_DALTON_GREYJOY</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_IRON_ISLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_IRON_ISLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DALTON_GREYJOY_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DALTON_GREYJOY</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WE_DO_NOT_SOW_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WE_DO_NOT_SOW_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_IRON_ISLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RED_KRAKEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RED_KRAKEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DALTON_GREYJOY</LeaderAbilityIcon>
+			<Portrait>LEADER_DALTON_GREYJOY_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<LeaderType>LEADER_ALIANDRA_MARTELL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DORNE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DORNE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALIANDRA_MARTELL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALIANDRA_MARTELL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_UNBOWED_UNBENT_UNBROKEN_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_UNBOWED_UNBENT_UNBROKEN_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DORNE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_NEW_NYMERIA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_NEW_NYMERIA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALIANDRA_MARTELL</LeaderAbilityIcon>
+			<Portrait>LEADER_ALIANDRA_MARTELL_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_RHAENYRA_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHAENYRA_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHAENYRA_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SYRAX_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SYRAX_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHAENYRA_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_RHAENYRA_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_AEGONII_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AEGONII_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AEGONII_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SUNFYRE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SUNFYRE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AEGONII_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_AEGONII_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_REACH</CivilizationType>
+			<LeaderType>LEADER_LYONEL_TYRELL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_REACH_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_REACH</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LYONEL_TYRELL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LYONEL_TYRELL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GROWING_STRONG_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GROWING_STRONG_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_REACH</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIGH_MARSHAL_OFTHE_REACH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LYONEL_TYRELL</LeaderAbilityIcon>
+			<Portrait>LEADER_LYONEL_TYRELL_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_LOYAL_BANNERMEN" Icon="ICON_UNIT_LOYAL_BANNERMEN" Name="LOC_UNIT_LOYAL_BANNERMEN_NAME" Description="LOC_UNIT_LOYAL_BANNERMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_CRANNOGMEN" Icon="ICON_UNIT_CRANNOGMEN" Name="LOC_UNIT_CRANNOGMEN_NAME" Description="LOC_UNIT_CRANNOGMEN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_NOTHERN_CLANS_WARRIOR" Icon="ICON_UNIT_NOTHERN_CLANS_WARRIOR" Name="LOC_UNIT_NOTHERN_CLANS_WARRIOR_NAME" Description="LOC_UNIT_NOTHERN_CLANS_WARRIOR_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_WINTER_WOLVES" Icon="ICON_UNIT_WINTER_WOLVES" Name="LOC_UNIT_WINTER_WOLVES_NAME" Description="LOC_UNIT_WINTER_WOLVES_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="BUILDING_GODSWOOD" Icon="ICON_BUILDING_GODSWOOD" Name="LOC_BUILDING_GODSWOOD_NAME" Description="LOC_BUILDING_GODSWOOD_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_ELMO_TULLY" Type="UNIT_TULLY_GUARDSMEN" Icon="ICON_UNIT_TULLY_GUARDSMEN" Name="LOC_UNIT_TULLY_GUARDSMEN_NAME" Description="LOC_UNIT_TULLY_GUARDSMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_ELMO_TULLY" Type="BUILDING_RIVER_MILL" Icon="ICON_BUILDING_RIVER_MILL" Name="LOC_BUILDING_RIVER_MILL_NAME" Description="LOC_BUILDING_RIVER_MILL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JEYNE_ARRYN" Type="UNIT_KNIGHT_OF_VALE" Icon="ICON_UNIT_KNIGHT_OF_VALE" Name="LOC_UNIT_KNIGHT_OF_VALE_NAME" Description="LOC_UNIT_KNIGHT_OF_VALE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JEYNE_ARRYN" Type="BUILDING_MOUNTAIN_GARDEN" Icon="ICON_BUILDING_MOUNTAIN_GARDEN" Name="LOC_BUILDING_MOUNTAIN_GARDEN_NAME" Description="LOC_BUILDING_MOUNTAIN_GARDEN_DESCRIPTION" SortIndex="20"/>
+	
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BARATHEON_STORMSEND" LeaderType="LEADER_BORROS_BARATHEON" Type="UNIT_STORMSOLDIER" Icon="ICON_UNIT_STORMSOLDIER" Name="LOC_UNIT_STORMSOLDIER_NAME" Description="LOC_UNIT_STORMSOLDIER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BARATHEON_STORMSEND" LeaderType="LEADER_BORROS_BARATHEON" Type="UNIT_MARCHES_ARCHER" Icon="ICON_UNIT_MARCHES_ARCHER" Name="LOC_UNIT_MARCHES_ARCHER_NAME" Description="LOC_UNIT_MARCHES_ARCHER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BARATHEON_STORMSEND" LeaderType="LEADER_BORROS_BARATHEON" Type="BUILDING_KING_TOURNEY" Icon="ICON_BUILDING_KING_TOURNEY" Name="LOC_BUILDING_KING_TOURNEY_NAME" Description="LOC_BUILDING_KING_TOURNEY_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_JASON_LANNISTER" Type="UNIT_RED_CLOAKS" Icon="ICON_UNIT_RED_CLOAKS" Name="LOC_UNIT_RED_CLOAKS_NAME" Description="LOC_UNIT_RED_CLOAKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_JASON_LANNISTER" Type="UNIT_PIKEMEN_OFTHE_ROCK" Icon="ICON_UNIT_PIKEMEN_OFTHE_ROCK" Name="LOC_UNIT_PIKEMEN_OFTHE_ROCK_NAME" Description="LOC_UNIT_PIKEMEN_OFTHE_ROCK_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_JASON_LANNISTER" Type="BUILDING_WESTERLAND_WORKSHOP" Icon="ICON_BUILDING_WESTERLAND_WORKSHOP" Name="LOC_BUILDING_WESTERLAND_WORKSHOP_NAME" Description="LOC_BUILDING_WESTERLAND_WORKSHOP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_ISLANDS" LeaderType="LEADER_DALTON_GREYJOY" Type="UNIT_IRON_LONGSHIP" Icon="ICON_UNIT_IRON_LONGSHIP" Name="LOC_UNIT_IRON_LONGSHIP_NAME" Description="LOC_UNIT_IRON_LONGSHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_ISLANDS" LeaderType="LEADER_DALTON_GREYJOY" Type="UNIT_IRONBORN_REAVER" Icon="ICON_UNIT_IRONBORN_REAVER" Name="LOC_UNIT_IRONBORN_REAVER_NAME" Description="LOC_UNIT_IRONBORN_REAVER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_IRON_ISLANDS" LeaderType="LEADER_DALTON_GREYJOY" Type="BUILDING_IRONBORN_PORT" Icon="ICON_BUILDING_IRONBORN_PORT" Name="LOC_BUILDING_IRONBORN_PORT_NAME" Description="LOC_BUILDING_IRONBORN_PORT_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="UNIT_SAND_STEED" Icon="ICON_UNIT_SAND_STEED" Name="LOC_UNIT_SAND_STEED_NAME" Description="LOC_UNIT_SAND_STEED_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="UNIT_SNAKE_FANGS" Icon="ICON_UNIT_SNAKE_FANGS" Name="LOC_UNIT_SNAKE_FANGS_NAME" Description="LOC_UNIT_SNAKE_FANGS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="BUILDING_EXOTIC_MARKET" Icon="ICON_BUILDING_EXOTIC_MARKET" Name="LOC_BUILDING_EXOTIC_MARKET_NAME" Description="LOC_BUILDING_EXOTIC_MARKET_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="BUILDING_PLEASURE_HOUSE" Icon="ICON_BUILDING_PLEASURE_HOUSE" Name="LOC_BUILDING_PLEASURE_HOUSE_NAME" Description="LOC_BUILDING_PLEASURE_HOUSE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_RHAENYRA_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_RHAENYRA_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_RHAENYRA_TARGARYEN" Type="UNIT_DRAGON" Icon="ICON_UNIT_DRAGON" Name="LOC_UNIT_DRAGON_NAME" Description="LOC_UNIT_DRAGON_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGONII_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGONII_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGONII_TARGARYEN" Type="UNIT_DRAGON" Icon="ICON_UNIT_DRAGON" Name="LOC_UNIT_DRAGON_NAME" Description="LOC_UNIT_DRAGON_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_REACH" LeaderType="LEADER_LYONEL_TYRELL" Type="UNIT_SUMMER_KNIGHT" Icon="ICON_UNIT_SUMMER_KNIGHT" Name="LOC_UNIT_SUMMER_KNIGHT_NAME" Description="LOC_UNIT_SUMMER_KNIGHT_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_REACH" LeaderType="LEADER_LYONEL_TYRELL" Type="UNIT_REDWYNE_SHIP" Icon="ICON_UNIT_REDWYNE_SHIP" Name="LOC_UNIT_REDWYNE_SHIP_NAME" Description="LOC_UNIT_REDWYNE_SHIP_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_REACH" LeaderType="LEADER_LYONEL_TYRELL" Type="BUILDING_FLOWER_GARDEN" Icon="ICON_BUILDING_FLOWER_GARDEN" Name="LOC_BUILDING_FLOWER_GARDEN_NAME" Description="LOC_BUILDING_FLOWER_GARDEN_DESCRIPTION" SortIndex="30"/>
+	
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_LOYAL_BANNERMEN" Icon="ICON_UNIT_LOYAL_BANNERMEN" Name="LOC_UNIT_LOYAL_BANNERMEN_NAME" Description="LOC_UNIT_LOYAL_BANNERMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_CRANNOGMEN" Icon="ICON_UNIT_CRANNOGMEN" Name="LOC_UNIT_CRANNOGMEN_NAME" Description="LOC_UNIT_CRANNOGMEN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_NOTHERN_CLANS_WARRIOR" Icon="ICON_UNIT_NOTHERN_CLANS_WARRIOR" Name="LOC_UNIT_NOTHERN_CLANS_WARRIOR_NAME" Description="LOC_UNIT_NOTHERN_CLANS_WARRIOR_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="UNIT_WINTER_WOLVES" Icon="ICON_UNIT_WINTER_WOLVES" Name="LOC_UNIT_WINTER_WOLVES_NAME" Description="LOC_UNIT_WINTER_WOLVES_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_CREGAN_STARK" Type="BUILDING_GODSWOOD" Icon="ICON_BUILDING_GODSWOOD" Name="LOC_BUILDING_GODSWOOD_NAME" Description="LOC_BUILDING_GODSWOOD_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_ELMO_TULLY" Type="UNIT_TULLY_GUARDSMEN" Icon="ICON_UNIT_TULLY_GUARDSMEN" Name="LOC_UNIT_TULLY_GUARDSMEN_NAME" Description="LOC_UNIT_TULLY_GUARDSMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_ELMO_TULLY" Type="BUILDING_RIVER_MILL" Icon="ICON_BUILDING_RIVER_MILL" Name="LOC_BUILDING_RIVER_MILL_NAME" Description="LOC_BUILDING_RIVER_MILL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JEYNE_ARRYN" Type="UNIT_KNIGHT_OF_VALE" Icon="ICON_UNIT_KNIGHT_OF_VALE" Name="LOC_UNIT_KNIGHT_OF_VALE_NAME" Description="LOC_UNIT_KNIGHT_OF_VALE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JEYNE_ARRYN" Type="BUILDING_MOUNTAIN_GARDEN" Icon="ICON_BUILDING_MOUNTAIN_GARDEN" Name="LOC_BUILDING_MOUNTAIN_GARDEN_NAME" Description="LOC_BUILDING_MOUNTAIN_GARDEN_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BARATHEON_STORMSEND" LeaderType="LEADER_BORROS_BARATHEON" Type="UNIT_STORMSOLDIER" Icon="ICON_UNIT_STORMSOLDIER" Name="LOC_UNIT_STORMSOLDIER_NAME" Description="LOC_UNIT_STORMSOLDIER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BARATHEON_STORMSEND" LeaderType="LEADER_BORROS_BARATHEON" Type="UNIT_MARCHES_ARCHER" Icon="ICON_UNIT_MARCHES_ARCHER" Name="LOC_UNIT_MARCHES_ARCHER_NAME" Description="LOC_UNIT_MARCHES_ARCHER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BARATHEON_STORMSEND" LeaderType="LEADER_BORROS_BARATHEON" Type="BUILDING_KING_TOURNEY" Icon="ICON_BUILDING_KING_TOURNEY" Name="LOC_BUILDING_KING_TOURNEY_NAME" Description="LOC_BUILDING_KING_TOURNEY_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_JASON_LANNISTER" Type="UNIT_RED_CLOAKS" Icon="ICON_UNIT_RED_CLOAKS" Name="LOC_UNIT_RED_CLOAKS_NAME" Description="LOC_UNIT_RED_CLOAKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_JASON_LANNISTER" Type="UNIT_PIKEMEN_OFTHE_ROCK" Icon="ICON_UNIT_PIKEMEN_OFTHE_ROCK" Name="LOC_UNIT_PIKEMEN_OFTHE_ROCK_NAME" Description="LOC_UNIT_PIKEMEN_OFTHE_ROCK_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_JASON_LANNISTER" Type="BUILDING_WESTERLAND_WORKSHOP" Icon="ICON_BUILDING_WESTERLAND_WORKSHOP" Name="LOC_BUILDING_WESTERLAND_WORKSHOP_NAME" Description="LOC_BUILDING_WESTERLAND_WORKSHOP_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_ISLANDS" LeaderType="LEADER_DALTON_GREYJOY" Type="UNIT_IRON_LONGSHIP" Icon="ICON_UNIT_IRON_LONGSHIP" Name="LOC_UNIT_IRON_LONGSHIP_NAME" Description="LOC_UNIT_IRON_LONGSHIP_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_ISLANDS" LeaderType="LEADER_DALTON_GREYJOY" Type="UNIT_IRONBORN_REAVER" Icon="ICON_UNIT_IRONBORN_REAVER" Name="LOC_UNIT_IRONBORN_REAVER_NAME" Description="LOC_UNIT_IRONBORN_REAVER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_IRON_ISLANDS" LeaderType="LEADER_DALTON_GREYJOY" Type="BUILDING_IRONBORN_PORT" Icon="ICON_BUILDING_IRONBORN_PORT" Name="LOC_BUILDING_IRONBORN_PORT_NAME" Description="LOC_BUILDING_IRONBORN_PORT_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="UNIT_SAND_STEED" Icon="ICON_UNIT_SAND_STEED" Name="LOC_UNIT_SAND_STEED_NAME" Description="LOC_UNIT_SAND_STEED_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="UNIT_SNAKE_FANGS" Icon="ICON_UNIT_SNAKE_FANGS" Name="LOC_UNIT_SNAKE_FANGS_NAME" Description="LOC_UNIT_SNAKE_FANGS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="BUILDING_EXOTIC_MARKET" Icon="ICON_BUILDING_EXOTIC_MARKET" Name="LOC_BUILDING_EXOTIC_MARKET_NAME" Description="LOC_BUILDING_EXOTIC_MARKET_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_ALIANDRA_MARTELL" Type="BUILDING_PLEASURE_HOUSE" Icon="ICON_BUILDING_PLEASURE_HOUSE" Name="LOC_BUILDING_PLEASURE_HOUSE_NAME" Description="LOC_BUILDING_PLEASURE_HOUSE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_RHAENYRA_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_RHAENYRA_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_RHAENYRA_TARGARYEN" Type="UNIT_DRAGON" Icon="ICON_UNIT_DRAGON" Name="LOC_UNIT_DRAGON_NAME" Description="LOC_UNIT_DRAGON_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGONII_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGONII_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGONII_TARGARYEN" Type="UNIT_DRAGON" Icon="ICON_UNIT_DRAGON" Name="LOC_UNIT_DRAGON_NAME" Description="LOC_UNIT_DRAGON_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_REACH" LeaderType="LEADER_LYONEL_TYRELL" Type="UNIT_SUMMER_KNIGHT" Icon="ICON_UNIT_SUMMER_KNIGHT" Name="LOC_UNIT_SUMMER_KNIGHT_NAME" Description="LOC_UNIT_SUMMER_KNIGHT_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_REACH" LeaderType="LEADER_LYONEL_TYRELL" Type="UNIT_REDWYNE_SHIP" Icon="ICON_UNIT_REDWYNE_SHIP" Name="LOC_UNIT_REDWYNE_SHIP_NAME" Description="LOC_UNIT_REDWYNE_SHIP_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_REACH" LeaderType="LEADER_LYONEL_TYRELL" Type="BUILDING_FLOWER_GARDEN" Icon="ICON_BUILDING_FLOWER_GARDEN" Name="LOC_BUILDING_FLOWER_GARDEN_NAME" Description="LOC_BUILDING_FLOWER_GARDEN_DESCRIPTION" SortIndex="30"/>
+
+	</PlayerItems>
+	
+</GameData>

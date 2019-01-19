@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_CREGAN_STARK_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CREGAN_STARK_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELMO_TULLY_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ELMO_TULLY_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JEYNE_ARRYN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JEYNE_ARRYN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BORROS_BARATHEON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_BORROS_BARATHEON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JASON_LANNISTER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JASON_LANNISTER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DALTON_GREYJOY_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DALTON_GREYJOY_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ALIANDRA_MARTELL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ALIANDRA_MARTELL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RHAENYRA_TARGARYEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RHAENYRA_TARGARYEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AEGONII_TARGARYEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AEGONII_TARGARYEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LYONEL_TYRELL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LYONEL_TYRELL_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
